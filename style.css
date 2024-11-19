@@ -6,6 +6,7 @@ body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
+  font-size: ;
 }
 
 /* Headings */
@@ -39,10 +40,18 @@ article div {
   text-align: center;
   width: 100%;
 }
+/* article section p {
+ font-size: 14px;
+} */
+
 
 /* Paragraphs */
 p {
   line-height: 1.5;
+  font-size: 14px;
+}
+ul{
+  font-size: 14px;
 }
 
 /* Links */
